@@ -1,0 +1,3 @@
+[submodule "src/nested"]
+	path = src/nested
+	url = http://github.com/hrkipp/submod.git

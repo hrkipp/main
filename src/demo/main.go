@@ -4,5 +4,4 @@ import "nested"
 
 func main() {
 	nested.ContrivedExample()
-
 }
